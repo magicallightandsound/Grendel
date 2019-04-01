@@ -318,6 +318,18 @@
     <Reference Include="UnityEditor.Lumin.Extensions">
       <HintPath>C:/Program Files/Unity 2018.1.9f2-MLTP10/Editor/Data/PlaybackEngines/lumin/UnityEditor.Lumin.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="LuminUnity">
+      <HintPath>C:/Users/Rodney/Documents/MLProjects/Grendel/Assets/MagicLeap/Libs/LuminUnity.dll</HintPath>
+    </Reference>
+    <Reference Include="LuminUnityEditor">
+      <HintPath>C:/Users/Rodney/Documents/MLProjects/Grendel/Assets/MagicLeap/Libs/Editor/LuminUnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="MSA.Runtime">
+      <HintPath>C:/Users/Rodney/Documents/MLProjects/Grendel/Assets/MagicLeap/Soundfield/MSA.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="MSA.Editor">
+      <HintPath>C:/Users/Rodney/Documents/MLProjects/Grendel/Assets/MagicLeap/Soundfield/Editor/MSA.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>C:/Users/Rodney/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
@@ -338,18 +350,6 @@
     </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
-    </Reference>
-    <Reference Include="LuminUnityEditor">
-      <HintPath>C:/Users/Rodney/Documents/MLProjects/Grendel/Assets/MagicLeap/Libs/Editor/LuminUnityEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="MSA.Runtime">
-      <HintPath>C:/Users/Rodney/Documents/MLProjects/Grendel/Assets/MagicLeap/Soundfield/MSA.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="LuminUnity">
-      <HintPath>C:/Users/Rodney/Documents/MLProjects/Grendel/Assets/MagicLeap/Libs/LuminUnity.dll</HintPath>
-    </Reference>
-    <Reference Include="MSA.Editor">
-      <HintPath>C:/Users/Rodney/Documents/MLProjects/Grendel/Assets/MagicLeap/Soundfield/Editor/MSA.Editor.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity 2018.1.9f2-MLTP10/Editor/Data/MonoBleedingEdge/lib/mono/2.0-api/mscorlib.dll</HintPath>

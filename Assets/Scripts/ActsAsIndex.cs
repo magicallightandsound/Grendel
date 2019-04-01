@@ -18,7 +18,7 @@ public class ActsAsIndex : MonoBehaviour {
 	void Start () {
 
 
-        Object[] indexables = Resources.LoadAll("Indexables", typeof(GameObject));
+        Object[] indexables = Resources.LoadAll("GameObjects", typeof(GameObject));
         gameObjects = new List<GameObject>(indexables as GameObject[]);
 
         foreach (var gameObject in gameObjects)
