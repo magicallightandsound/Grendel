@@ -8,17 +8,23 @@ public class ActsAsLerpMovement : MonoBehaviour {
     Vector3 startPosition;
     Vector3 target;
     float timeToReachTarget;
+
+
     void Start()
     {
         startPosition = target = transform.position;
-        SetDestination(new Vector3(100, 100, 100), 50);
     }
+
 
 
     void Update()
     {
-        t += Time.deltaTime / timeToReachTarget;
-        transform.position = Vector3.Lerp(startPosition, target, t);
+        if (target != transform.position)
+        {
+            t += Time.deltaTime / timeToReachTarget;
+            transform.position = Vector3.Lerp(startPosition, target, t);
+        }
+
     }
     public void SetDestination(Vector3 destination, float time)
     {

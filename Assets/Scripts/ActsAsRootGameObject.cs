@@ -6,17 +6,21 @@ public class ActsAsRootGameObject : MonoBehaviour {
 
     public static GameObject root;
 
-    private GameObject rootPrefab = null;
-    
+    public GameObject rootPrefab = null;
+
     private Transform gameOrigin = null;
 
     private void Awake()
     {
-        gameOrigin.position = Camera.main.transform.position;
+        gameOrigin = Camera.main.transform;
     }
     // Use this for initialization
     void Start () {
-        root = Instantiate(rootPrefab, gameOrigin);
+        if (rootPrefab != null)
+        {
+            root = Instantiate(rootPrefab, gameOrigin);
+        }
+       
 	}
 	
 	// Update is called once per frame
