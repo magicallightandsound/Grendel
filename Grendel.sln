@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grendel", "Assembly-CSharp.csproj", "{A53CBBDE-58C1-F6AD-4B20-B3D23A0A8236}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A53CBBDE-58C1-F6AD-4B20-B3D23A0A8236}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grendel", "Assembly-CSharp-Editor.csproj", "{9083A1DB-02A8-870C-AFAB-E9DD97C26FE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{9083A1DB-02A8-870C-AFAB-E9DD97C26FE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

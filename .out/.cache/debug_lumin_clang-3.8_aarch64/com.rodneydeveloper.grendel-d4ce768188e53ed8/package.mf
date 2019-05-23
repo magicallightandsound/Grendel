@@ -1,0 +1,269 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "54c030e867a47541859dad19b1e8a8f2ab50d39c",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3513364,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "a84f9c6b47915d34ca1e93d3d0162c8590a76ea8",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 54933400,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Rodney\\MLCert\\rodneydevcert001.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "0a25f5524eca22ba6041872b7ee5bdc54aee49c6",
+   "xfrm_path": "C:/Users/Rodney/Documents/MLProjects/Grendel/.out/.cache/debug_lumin_clang-3.8_aarch64/com.rodneydeveloper.grendel-d4ce768188e53ed8\\libil2cpp.so-0917029dea1d33c7",
+   "xfrm_size": 54934158
+  },
+  {
+   "compression": 8,
+   "hash": "6b3b1067e8eeb28457c572292a209cc931e93089",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 269360,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Rodney\\MLCert\\rodneydevcert001.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "478608a89e9c9adbeafb19c5d7e23d6eba81636f",
+   "xfrm_path": "C:/Users/Rodney/Documents/MLProjects/Grendel/.out/.cache/debug_lumin_clang-3.8_aarch64/com.rodneydeveloper.grendel-d4ce768188e53ed8\\AudioPluginMSASpatializer.so-ff5b2b51b6aa51a8",
+   "xfrm_size": 270118
+  },
+  {
+   "compression": 8,
+   "hash": "0dcf6d6b8f274d400b8544696e7a6f9f81c6ba81",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 100864,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "06995ecae530eca2b6f5337b27dbdfcb727599da",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 1495800,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Rodney\\MLCert\\rodneydevcert001.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "fe44a3effdf8522a7c3c1d7b6f2c9e66c84e9f4a",
+   "xfrm_path": "C:/Users/Rodney/Documents/MLProjects/Grendel/.out/.cache/debug_lumin_clang-3.8_aarch64/com.rodneydeveloper.grendel-d4ce768188e53ed8\\UnityMagicLeap.so-ff5b2b51b6aa51a8",
+   "xfrm_size": 1496558
+  },
+  {
+   "compression": 8,
+   "hash": "e36553e9a3113280d39db515a350a0036cda878d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Rodney\\MLCert\\rodneydevcert001.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "99c3a4a8b8a357e976e04ae39c6dd955ce24d50b",
+   "xfrm_path": "C:/Users/Rodney/Documents/MLProjects/Grendel/.out/.cache/debug_lumin_clang-3.8_aarch64/com.rodneydeveloper.grendel-d4ce768188e53ed8\\libml_camera_plugin.so-ff5b2b51b6aa51a8",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "0ee8bd5ed3f83c8d11c84a597fb375ec525b0642",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Rodney\\MLCert\\rodneydevcert001.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "7f62639addea0019324a49c955319fe115e54f63",
+   "xfrm_path": "C:/Users/Rodney/Documents/MLProjects/Grendel/.out/.cache/debug_lumin_clang-3.8_aarch64/com.rodneydeveloper.grendel-d4ce768188e53ed8\\libml_mediaplayer_plugin.so-ff5b2b51b6aa51a8",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "63c7ca62020949b1c87b1439f31b7a9719db98c1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3652028,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "d45d007278cc5fcdab949d3452d254fa25f2d033",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 807524,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "07a1a6072f5e1bb3a3f4905632232dc66e76c2d5",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 168,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "d6f6851c6cf4ecc64429d46ff4d6bc20179a27c5",
+   "pkgpath": "Data/boot.config",
+   "size": 165,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "70e2c9444f1d4bdda81fd9706603c4e37ca43337",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 51312,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "3926786a1fc00b13b84ea926e9398bdedb98ea05",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 61252,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "7262eac3185c0cd8b8ac55c356e8f62057cd4b49",
+   "pkgpath": "Data/level0",
+   "size": 6204,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "82e3a24818ddad4306ca25bd75563c5c6586b373",
+   "pkgpath": "Data/resources.assets",
+   "size": 861840,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f4ce785d29d24c54555cb4aa9fed0d8d2dee1fad",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "c0451efee28339237f3edc585b648f7916a6c892",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 4181,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "83809f07181ae9ea95470924b7a796418637d9c8",
+   "pkgpath": "bin/Player.elf",
+   "size": 20263912,
+   "src": "C:/Users/Rodney/Documents/MLProjects/Grendel/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Rodney\\MLCert\\rodneydevcert001.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "19ff848469ee51fee205c50810d08705fb6ac783",
+   "xfrm_path": "C:/Users/Rodney/Documents/MLProjects/Grendel/.out/.cache/debug_lumin_clang-3.8_aarch64/com.rodneydeveloper.grendel-d4ce768188e53ed8\\Player.elf-ea0f11a6793d5820",
+   "xfrm_size": 20264670
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/Rodney/MagicLeap/mlsdk/v0.20.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Rodney\\MLCert\\rodneydevcert001.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "bbbe3e5f01b17b4f0a40b3b9883da0f00d0fc0af",
+   "xfrm_path": "C:/Users/Rodney/Documents/MLProjects/Grendel/.out/.cache/debug_lumin_clang-3.8_aarch64/com.rodneydeveloper.grendel-d4ce768188e53ed8\\libc++_shared.so-089aac7cbf334f43",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "f2609d9a6bd177deb0e620abc9c2a2311c79979a",
+   "pkgpath": "manifest.xml",
+   "size": 3444,
+   "src": "C:\\Users\\Rodney\\Documents\\MLProjects\\Grendel\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "40253381b7b06592b07571d1ce7d9824c2bbf7bf",
+     "developer_id": "fdf44304-e252-48bd-a592-a6c6fe9f75ef"
+    }
+   },
+   "xfrm_hash": "7274bcf3605ebbf19d336ca6e4752afd9faaf24a",
+   "xfrm_path": "C:/Users/Rodney/Documents/MLProjects/Grendel/.out/.cache/debug_lumin_clang-3.8_aarch64/com.rodneydeveloper.grendel-d4ce768188e53ed8\\manifest.xml-ea0f11a6793d5820",
+   "xfrm_size": 1159
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\Rodney\\MLCert\\rodneydevcert001.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\Rodney\\MLCert\\rodneydevcert001.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
